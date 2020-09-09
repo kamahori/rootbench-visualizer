@@ -1,0 +1,6 @@
+name,iterations,real_time,cpu_time,time_unit,bytes_per_second,items_per_second,label,error_occurred,size
+"LZ4",5,3.9664e+06,2.63443e+06,us,,,,,1182129921
+"LZ4BS",5,3.72801e+06,2.50275e+06,us,,,,,1068354615
+"ZSTD",5,6.724e+06,4.23581e+06,us,,,,,912145794
+"ZLIB",5,7.51828e+06,6.13294e+06,us,,,,,926036520
+"LZMA",5,6.83466e+07,6.66317e+07,us,,,,,683744143
